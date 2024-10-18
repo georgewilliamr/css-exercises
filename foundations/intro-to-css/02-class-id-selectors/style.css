@@ -1,5 +1,23 @@
-. p {background-color: lightcoral;
+.odd,
+.oddtwo {
+    background-color:#f88379;
     font-family: Verdana, sans-serif;
-    
+}
+
+#two {
+   color: #0000FF; 
+   font-size: 36px;
+}
+
+.oddtwo {
+    font-size: 24px;
+}
+
+.four {
+    background-color:#90EE90;
+    font-size: 24px;
+    font-weight: bold;
+
+
 
 }
