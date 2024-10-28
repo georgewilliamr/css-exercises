@@ -5,20 +5,22 @@ body {
 .para,
 .small-para {
   color: hsl(0, 0%, 0%);
-  font-weight: 800;
-}
-
-.small-para {
-  font-size: 14px;
-  font-weight: 800;
+  font-weight: bold;
+ 
 }
 
 .para {
   font-size: 22px;
 }
 
-.confirm {
-  background: green;
+.small-para {
+
+  font-size: 12px;
+
+}
+
+#confirm-button {
+  background-color: green;
   color: white;
   font-weight: bold;
 } 
@@ -29,14 +31,17 @@ body {
   font-size: 20px;
 }
 
+.text {
+  color: rgb(0, 0, 0);
+  font-size: 22px;
+  font-weight: 100;
+}
+
 .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
 }
 
-div.text {
-  color: rgb(0, 0, 0);
-  font-size: 22px;
-  font-weight: 100;
-}
+
+
